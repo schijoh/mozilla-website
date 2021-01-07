@@ -3,6 +3,14 @@ html {
   font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
 }
 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 p, li, h1{
   color: MidnightBlue;
   text-align: center;
