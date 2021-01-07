@@ -1,0 +1,25 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+p, li, h1{
+  color: MidnightBlue;
+}
+
+.boxed {
+  border: 1px solid black;
+}
+
+img {
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    color: white;
+    border: 40px solid transparent;
+    border-image: url(https://image.flaticon.com/icons/svg/648/648787.svg);
+    border-image-slice: 100%;
+    border-image-width: 60px;
+    padding: 15px;
+}
